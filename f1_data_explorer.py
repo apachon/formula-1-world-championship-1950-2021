@@ -14,8 +14,8 @@ for dirname, _, filenames in os.walk("dataset"):
 
 import plotly.graph_objects as go
 from plotly.offline import iplot
-import folium
-from  folium  import  plugins
+#import folium
+#from  folium  import  plugins
 
 # Loading the datas
 resultsDF = pd.read_csv("dataset\results.csv")

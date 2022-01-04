@@ -18,11 +18,10 @@ from plotly.offline import iplot
 #from  folium  import  plugins
 
 # Loading the datas
-resultsDF = pd.read_csv("dataset\results.csv")
-circuitsDF = pd.read_csv("dataset\\circuits.csv")
-driversDF = pd.read_csv("dataset\drivers.csv")
-racesDF = pd.read_csv("dataset\races.csv")
-constructorDF = pd.read_csv("dataset\constructors.csv")
+resultsDF = pd.read_csv("results.csv")
+#circuitsDF = pd.read_csv(dataset\circuits.csv)
+#driversDF = pd.read_csv(dataset\drivers.csv)
+#racesDF = pd.read_csv(dataset\races.csv)
+#constructorDF = pd.read_csv(dataset\constructors.csv)
 
 resultsDF.head()
-

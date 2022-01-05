@@ -1,6 +1,6 @@
 # formula-1-world-championship-1950-2021
 
-Dataset [Ergast Developer API)](http://ergast.com/mrd/)
+Dataset [Ergast Developer API](http://ergast.com/mrd/)
 
 ## Context
 
